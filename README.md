@@ -1,8 +1,28 @@
-# React + Vite
+## Tech Stack
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- **Vite**: A fast build tool for modern web development.
+- **React.js**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for creating custom designs quickly.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Beautiful Sections
+- **Hero, Services, Features, How to Use, Roadmap, Pricing, Footer, and Header**: Includes various sections to provide a comprehensive user experience.
+
+### Parallax Animations
+- **Engaging Effects**: Animations triggered by mouse movement and scrolling to enhance user interaction.
+
+### Complex UI Geometry
+- **TailwindCSS Utilization**: Utilizes Tailwind CSS for creating intricate shapes like circular feature displays, grid lines, and side lines.
+
+### Latest UI Trends
+- **Modern Design Elements**: Incorporates modern design trends such as bento grids for a visually appealing interface.
+
+### Cool Gradients
+- **Stylish Visuals**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, and other components.
+
+### Responsive Design
+- **Seamless Functionality**: Ensures seamless functionality and aesthetics across all devices, providing a consistent user experience.
+
+### Code Architecture and Reusability
+- **Modular and Reusable Code**: Follows best practices for code architecture and reusability, ensuring maintainability and scalability.
