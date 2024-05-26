@@ -1,9 +1,3 @@
-## Tech Stack
-
-- **Vite**: A fast build tool for modern web development.
-- **React.js**: A JavaScript library for building user interfaces.
-- **Tailwind CSS**: A utility-first CSS framework for creating custom designs quickly.
-
 ## Features
 
 ### Beautiful Sections
